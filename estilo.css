@@ -1,0 +1,71 @@
+body {
+    margin:0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.cabecalho {
+    color: rgb(255, 255, 255);
+    background: #21022d;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+
+
+
+.imagens {
+    height: 150px;
+    width: 150px;
+    margin-left: 64px;
+}
+
+.main {
+    background: #e2d8e7;
+     
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 16px;    
+    padding-bottom: 16px;
+}
+
+#cardapio {
+    color: #21022d;
+    margin-bottom: 32px;
+    padding-left: 16px;
+    padding:16px;
+    
+}
+
+
+
+.textos {
+    color: #21022d;
+    margin-left: 64px;
+}
+
+.main2 {
+    text-align: center;
+    margin-top:64px;
+    padding-bottom: 32px;
+    color: #21022d;
+}
+
+.main2 img {
+height: 300px;
+width: 600px;
+
+}
+
+.rodape {
+    background: #21022d;
+    color:white;
+    text-align: center;
+    padding-top:8px;
+    padding-bottom: 8px;
+}
+
